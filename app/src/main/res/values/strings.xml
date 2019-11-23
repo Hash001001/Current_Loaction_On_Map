@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Google_Maps_Java</string>
+    <string name="title_activity_maps">My Map</string>
+</resources>
